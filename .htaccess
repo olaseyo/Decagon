@@ -1,0 +1,3 @@
+
+
+RewriteRule    ^controller/?$    controller/controller.php    [NC,L]
